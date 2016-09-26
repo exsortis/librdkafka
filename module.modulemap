@@ -1,0 +1,5 @@
+module CRdKafka {
+  header "librdkafka/rdkafka.h"
+  link "rdkafka"
+  export *
+}
